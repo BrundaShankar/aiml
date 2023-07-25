@@ -16,4 +16,4 @@ print(list(filter(lambda n:n>9000,x)))
 print("\n sorted :")
 print(np.sort(f["steps"]))
 print ("i am not a toy to play with me")
-print("hellofrombatch2")
+
